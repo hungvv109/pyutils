@@ -1,0 +1,2 @@
+[console_scripts]
+pyutils = pyutils.main:main
