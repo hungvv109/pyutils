@@ -3,7 +3,7 @@ A lightweight Python command-line utility pack built with OOP and argparse.
 
 ## Installation
 ```bash
-git clone https://github.com/<your-username>/pyutils.git
+git clone git@github.com:hungvv109/pyutils.git
 cd pyutils
 pip install -e .
 ```
